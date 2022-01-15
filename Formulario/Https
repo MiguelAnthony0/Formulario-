@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang-"en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="Formulario Base de datos.css">
+        <title>IS</title>
+        
+    </head>
+    <body>
+        <div class="body">
+            <div class="contact_form">
+                <div class="formulario">
+                    <h1 style="color: white; text-align: center;">Inicie Sesion</h1>
+                    <h3 style="color: white; text-align: center;">Introduzca sus datos para iniciar sesion.</h3>
+                </div>
+                <form actions="" method=""></form>
+                <p>
+                    <label class="colocar_titulos" style="color: white; text-align: center;">Usuario</label> 
+                    <input type="text" style="text-align: center;" required="obligatorio" placeholder="Escribe tu usuario" >
+                </p>
+                <p>
+                    <label class="colocar_datos" style="color: white;">Contraseña</label>
+                    <input type="text" style="text-align: center;" required="obligatorio" placeholder="Escribe tu contraseña">
+                </p>
+                
+                
+                <button type="submit">Iniciar Sesion</button>
+    
+            </form>
+            </div>
+        </body> 
+            </html>
